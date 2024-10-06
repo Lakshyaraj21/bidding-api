@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "ESNext",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": false,
+    "lib": ["esnext"],
+    "esModuleInterop": true,
+    "declaration": true,
+    "module": "CommonJS",
+  },
+  "include": ["src/**/*.ts"]
+}
