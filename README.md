@@ -28,7 +28,7 @@
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/Lakhyaraj21/bidding-api.git
+    git clone https://github.com/Lakshyaraj21/bidding-api.git
     cd bidding-api
     ```
 
